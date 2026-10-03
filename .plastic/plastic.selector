@@ -1,0 +1,4 @@
+repository "ChickenMaze 2026-09-30_23-58-44/ChickenMaze@10171645982945@cloud"
+  path "/"
+    br "/main"
+    co "/main"
